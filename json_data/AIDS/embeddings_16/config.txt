@@ -1,0 +1,8 @@
+# Parametri Node2Vec (modificabili)
+DIMENSIONS = 16      # dimensione dell'embedding
+WALK_LENGTH = 20      # lunghezza delle passeggiate casuali
+NUM_WALKS = 10        # numero di passeggiate per nodo
+P = 1.0               # parametro di ritorno (in-out)
+Q = 1.0               # parametro di ingresso (in-out)
+CONTEXT_SIZE = 10     # taglia della finestra per Word2Vec
+WORKERS = 4           # thread per generazione passeggiate
