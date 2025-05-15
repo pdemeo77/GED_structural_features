@@ -1,0 +1,192 @@
+AIDS
+IMDB
+Linux
+Processing dataset: AIDS
+Processing risultati/AIDS_no_structural_features.csv
+No scaling applied.
+Linear Regression Mean Absolute Error: 1.3017411182784975
+Accuracy: 63.25%
+Spearman's Correlation Coefficient: -0.0005
+Kendall's Tau Coefficient: -0.0047
+**********
+Scaling features...
+Linear Regression Mean Absolute Error: 1.3017411182784975
+Accuracy: 63.25%
+Spearman's Correlation Coefficient: 0.6907
+Kendall's Tau Coefficient: 0.5442
+**********
+Using kernel: rbf
+SVR Mean Absolute Error: 0.4929642085768321
+Accuracy: 86.00%
+Spearman's Correlation Coefficient: 0.6908
+Kendall's Tau Coefficient: 0.5445
+**********
+Using kernel: linear
+SVR Mean Absolute Error: 0.4925851615901021
+Accuracy: 84.75%
+Spearman's Correlation Coefficient: 0.6898
+Kendall's Tau Coefficient: 0.5431
+**********
+Using kernel: poly
+SVR Mean Absolute Error: 0.600778096939645
+Accuracy: 78.50%
+Spearman's Correlation Coefficient: 0.6906
+Kendall's Tau Coefficient: 0.5445
+**********
+Processing risultati/AIDS_with_structural_features.csv
+No scaling applied.
+Linear Regression Mean Absolute Error: 1.2714256531586152
+Accuracy: 66.00%
+Spearman's Correlation Coefficient: -0.0179
+Kendall's Tau Coefficient: -0.0139
+**********
+Scaling features...
+Linear Regression Mean Absolute Error: 1.2714256531586152
+Accuracy: 66.00%
+Spearman's Correlation Coefficient: 0.7102
+Kendall's Tau Coefficient: 0.5616
+**********
+Using kernel: rbf
+SVR Mean Absolute Error: 0.4809393830848674
+Accuracy: 87.25%
+Spearman's Correlation Coefficient: 0.7102
+Kendall's Tau Coefficient: 0.5617
+**********
+Using kernel: linear
+SVR Mean Absolute Error: 0.48164492443020307
+Accuracy: 87.00%
+Spearman's Correlation Coefficient: 0.7102
+Kendall's Tau Coefficient: 0.5616
+**********
+Using kernel: poly
+SVR Mean Absolute Error: 0.6036790104972584
+Accuracy: 77.50%
+Spearman's Correlation Coefficient: 0.7102
+Kendall's Tau Coefficient: 0.5616
+**********
+Processing dataset: IMDB
+Processing risultati/IMDB_no_structural_features.csv
+No scaling applied.
+Linear Regression Mean Absolute Error: 1.9903783651565607
+Accuracy: 47.50%
+Spearman's Correlation Coefficient: 0.2129
+Kendall's Tau Coefficient: 0.1554
+**********
+Scaling features...
+Linear Regression Mean Absolute Error: 1.9903783651565592
+Accuracy: 47.50%
+Spearman's Correlation Coefficient: 0.8989
+Kendall's Tau Coefficient: 0.7492
+**********
+Using kernel: rbf
+SVR Mean Absolute Error: 0.20932721891510497
+Accuracy: 95.75%
+Spearman's Correlation Coefficient: 0.8963
+Kendall's Tau Coefficient: 0.7444
+**********
+Using kernel: linear
+SVR Mean Absolute Error: 0.2519847340633812
+Accuracy: 97.75%
+Spearman's Correlation Coefficient: 0.8989
+Kendall's Tau Coefficient: 0.7492
+**********
+Using kernel: poly
+SVR Mean Absolute Error: 0.396886812059246
+Accuracy: 95.75%
+Spearman's Correlation Coefficient: 0.8989
+Kendall's Tau Coefficient: 0.7489
+**********
+Processing risultati/IMDB_with_structural_features.csv
+No scaling applied.
+Linear Regression Mean Absolute Error: 1.7819683398847799
+Accuracy: 39.50%
+Spearman's Correlation Coefficient: 0.2146
+Kendall's Tau Coefficient: 0.1579
+**********
+Scaling features...
+Linear Regression Mean Absolute Error: 1.7819683398847803
+Accuracy: 39.50%
+Spearman's Correlation Coefficient: 0.9220
+Kendall's Tau Coefficient: 0.7871
+**********
+Using kernel: rbf
+SVR Mean Absolute Error: 0.1672520016511738
+Accuracy: 99.00%
+Spearman's Correlation Coefficient: 0.9328
+Kendall's Tau Coefficient: 0.8138
+**********
+Using kernel: linear
+SVR Mean Absolute Error: 0.23193291199580687
+Accuracy: 98.50%
+Spearman's Correlation Coefficient: 0.9220
+Kendall's Tau Coefficient: 0.7871
+**********
+Using kernel: poly
+SVR Mean Absolute Error: 0.3864156116688292
+Accuracy: 95.50%
+Spearman's Correlation Coefficient: 0.9220
+Kendall's Tau Coefficient: 0.7871
+**********
+Processing dataset: Linux
+Processing risultati/Linux_no_structural_features.csv
+No scaling applied.
+Linear Regression Mean Absolute Error: 2.215073809601522
+Accuracy: 42.75%
+Spearman's Correlation Coefficient: -0.0182
+Kendall's Tau Coefficient: -0.0125
+**********
+Scaling features...
+Linear Regression Mean Absolute Error: 2.215073809601522
+Accuracy: 42.75%
+Spearman's Correlation Coefficient: 0.2039
+Kendall's Tau Coefficient: 0.1557
+**********
+Using kernel: rbf
+SVR Mean Absolute Error: 0.7174866819726973
+Accuracy: 62.75%
+Spearman's Correlation Coefficient: 0.3810
+Kendall's Tau Coefficient: 0.2855
+**********
+Using kernel: linear
+SVR Mean Absolute Error: 0.827325148217167
+Accuracy: 59.75%
+Spearman's Correlation Coefficient: 0.2057
+Kendall's Tau Coefficient: 0.1577
+**********
+Using kernel: poly
+SVR Mean Absolute Error: 0.8534982957019008
+Accuracy: 58.75%
+Spearman's Correlation Coefficient: -0.2040
+Kendall's Tau Coefficient: -0.1557
+**********
+Processing risultati/Linux_with_structural_features.csv
+No scaling applied.
+Linear Regression Mean Absolute Error: 1.9363910131076714
+Accuracy: 46.50%
+Spearman's Correlation Coefficient: 0.0662
+Kendall's Tau Coefficient: 0.0374
+**********
+Scaling features...
+Linear Regression Mean Absolute Error: 1.9363910131076716
+Accuracy: 46.50%
+Spearman's Correlation Coefficient: 0.4909
+Kendall's Tau Coefficient: 0.3746
+**********
+Using kernel: rbf
+SVR Mean Absolute Error: 0.6542617881237109
+Accuracy: 71.00%
+Spearman's Correlation Coefficient: 0.5329
+Kendall's Tau Coefficient: 0.4041
+**********
+Using kernel: linear
+SVR Mean Absolute Error: 0.7187389558940432
+Accuracy: 69.00%
+Spearman's Correlation Coefficient: 0.4909
+Kendall's Tau Coefficient: 0.3746
+**********
+Using kernel: poly
+SVR Mean Absolute Error: 0.8296780395464262
+Accuracy: 65.50%
+Spearman's Correlation Coefficient: 0.4909
+Kendall's Tau Coefficient: 0.3746
+**********
